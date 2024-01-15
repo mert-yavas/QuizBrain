@@ -30,3 +30,26 @@ This project is designed to apply various Python concepts and functions, includi
 * Educational Tool: Provides a hands-on experience for practicing Python concepts in a quiz format.
 ### Invitation to Participate
 The Quiz Program is an engaging way to reinforce your Python programming skills. Feel free to explore the code, customize quiz questions, or even extend the program with additional features. Enjoy the learning journey, and test your Python knowledge with this interactive quiz!
+
+## Update
+### Version 1.1 (Day 17 Update)
+* Updated on Day 34th Code Challange 
+#### Added Features:
+1. **Enhanced User Interaction:** Improved the user experience with more informative prompts and responses.
+2. **Question Randomization:** Implemented randomization of quiz questions for a dynamic quiz-taking experience.
+
+#### Code Refinements:
+1. **Optimized Input Handling:** Streamlined user input validation and improved error handling for a smoother interaction.
+2. **Efficient Data Management:** Introduced optimizations in the management of question data for better performance.
+
+#### Bug Fixes:
+1. **Resolved Display Issues:** Fixed minor display inconsistencies to ensure a polished and cohesive quiz interface.
+2. **Improved Score Calculation:** Addressed a bug related to score calculation, ensuring accurate final scores.
+
+![QuizBrain](quizbrain_screenshot.png)
+### How to Update:
+To incorporate the latest changes and improvements, follow these steps:
+1. Download the updated version of the main.py script from the repository.
+2. Replace the existing main.py file in your local environment with the new one.
+
+Feel free to explore the updated features and provide feedback. Happy coding!
